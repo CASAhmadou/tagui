@@ -1,0 +1,9 @@
+
+START - automation started - Sat Sep 10 2022 15:54:09 GMT+0000 (GMT)
+http://127.0.0.1:8000/register - Laravel
+
+type //*[@name="name"] as  Malick  Fall
+type //*[@name="email"] as BenjaminPelchat@teleworm.us
+type //*[@name="password"] as passer123
+type //*[@name="password_confirmation"] as passer123
+click (//*[@name="submit"])
