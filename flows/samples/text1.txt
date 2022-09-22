@@ -1,0 +1,2 @@
+//img/@src="/tango/mjsp/common/images/logo5_FT.gif"
+//*[@name="topband"]

@@ -1,0 +1,5 @@
+
+START - automation started - Tue Sep 20 2022 12:02:43 GMT+0000 (GMT)
+https://www.google.com - Google
+
+type //*[@name="q"] as latest movies[enter]
